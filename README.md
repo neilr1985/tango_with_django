@@ -1,2 +1,4 @@
 # tango_with_django
-Tango with Djanto tutorial
+
+Tango with Django tutorial
+http://www.tangowithdjango.com/
